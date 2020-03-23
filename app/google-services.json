@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886826682643",
+    "firebase_url": "https://meal-network-b7467.firebaseio.com",
+    "project_id": "meal-network-b7467",
+    "storage_bucket": "meal-network-b7467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886826682643:android:984418f4f2280f4e5972e6",
+        "android_client_info": {
+          "package_name": "com.example.mealnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886826682643-23go293e1k3jpuft4rstsgnsuv8n8bjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mealnetwork",
+            "certificate_hash": "fa0e5f0b4f8727fd914f34093c752c55b7cb0cb7"
+          }
+        },
+        {
+          "client_id": "886826682643-t1na035f5ebgp6rn4vdththu33hhs0ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VkU9ZkomxO0VJAKC3HuUMLKkNT5SaJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886826682643-t1na035f5ebgp6rn4vdththu33hhs0ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
